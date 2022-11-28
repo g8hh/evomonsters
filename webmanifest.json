@@ -4,8 +4,8 @@
     "theme_color": "#144e2d",
     "background_color": "#288144",
     "display": "fullScreen",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/evomonsters",
+    "start_url": "/evomonsters",
     "icons": [
       {
         "src": "/images/logo.png",
