@@ -1,0 +1,16 @@
+{
+    "name": "Evomonsters - Incremental Evolution Clicker",
+    "short_name": "Evomonsters",
+    "theme_color": "#144e2d",
+    "background_color": "#288144",
+    "display": "fullScreen",
+    "scope": "/evomonsters",
+    "start_url": "/evomonsters",
+    "icons": [
+      {
+        "src": "/evomonsters/images/logo.png",
+        "sizes": "any",
+        "type": "image/png"
+      }
+    ]
+  }
