@@ -8,7 +8,7 @@
     "start_url": "/evomonsters",
     "icons": [
       {
-        "src": "/evomonsters/images/logo.png",
+        "src": "./images/logo.png",
         "sizes": "any",
         "type": "image/png"
       }
