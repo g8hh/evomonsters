@@ -102,7 +102,7 @@ var cnItems = {
     "Train": "火车",
     "Car": "汽车",
     "Plane": "飞机",
-    "": "",
+    "Space Shuttle": "航天飞机",
     "": "",
     "": "",
     "": "",
